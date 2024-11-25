@@ -1,5 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Olá+bem-vindo+ao+meu+perfil👋;Hello+welcome+to+my+profile👋;Ciao+benvenuto+al+mio+profilo👋;+:%29)](https://git.io/typing-svg)
-
+<!-- GIF MARIO -->
+<h1 align="center">
+  <a>
+    <img src="https://user-images.githubusercontent.com/78452566/140799812-a9c3a701-3b74-47fb-be11-c2363d68cd31.gif">
+  </a>
+</h1>
 
 ## 💜 Informaçãoes Pessoais
 
@@ -42,11 +46,19 @@ Tenho grande prazer em ler, pois acredito que os livros são fontes inesgotávei
 ![CSS3](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ## 📊Contribuições no GitHub
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arawns1&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=D3D3D3&bg_color=0d1117" alt="stella067 github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arawns1&layout=compact&hide_border=true&title_color=7B68EE&text_color=D3D3D3&bg_color=0d1117" />
+<div align="center">
+  <h3>Top Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stella067&theme=tokyonight&layout=compact" alt="Top Languages">
+ 
+  <h3>GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=stella067&show_icons=true&theme=tokyonight" alt="GitHub Stats of stella067">
+ 
+  <h3>GitHub Streak</h3>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Bragax23&theme=tokyonight"
+    alt="stella067"
+  >
 </div>
-
 
 
 <picture>
@@ -61,12 +73,9 @@ Tenho grande prazer em ler, pois acredito que os livros são fontes inesgotávei
 <br/>
 
 ## 🔎 Contato
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/kelvin__btw/](https://www.instagram.com/_gabriellylowrdes_/profilecard/?igsh=aDllenUzaXpvcXdh
-))
 
-
-
-
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gabriellylowrdes_/profilecard/?igsh=aDllenUzaXpvcXdh
+)
 
 
 
