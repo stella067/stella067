@@ -7,7 +7,7 @@
 
 ## 💜 Informaçãoes Pessoais
 
-Olá! Sou Gabrielly Lowrdes, tenho 17 anos e sou estudante de Informática, atualmente no 2º ano do Ensino Médio. Sou apaixonada por tecnologia e acredito que a inovação e o desenvolvimento tecnológico podem transformar a vida das pessoas e contribuir para um mundo mais justo. Além disso, adoro aprender coisas novas, explorar diferentes áreas do conhecimento e conhecer novas histórias. No meu tempo livre, gosto de ler.
+Olá! Sou Gabrielly Lowrdes, tenho 17 anos moro em Açailândia-Ma, e sou estudante de Informática, atualmente no 2º ano do Ensino Médio. Sou apaixonada por tecnologia e acredito que a inovação e o desenvolvimento tecnológico podem transformar a vida das pessoas e contribuir para um mundo mais justo. Além disso, adoro aprender coisas novas, explorar diferentes áreas do conhecimento e conhecer novas histórias. No meu tempo livre, gosto de ler.
 
 <br/>
 
