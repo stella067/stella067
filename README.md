@@ -27,7 +27,7 @@ Tenho grande prazer em ler, pois acredito que os livros são fontes inesgotávei
 
 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ###
 
@@ -72,14 +72,19 @@ Tenho grande prazer em ler, pois acredito que os livros são fontes inesgotávei
  
 <br/>
 
-## 🔎 Contato
+<div align="left">
+  <h2>Contato :)</h2>
+</div>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gabriellylowrdes_/profilecard/?igsh=aDllenUzaXpvcXdh
-)
+<div align="right">
+  <img src="https://i.gifer.com/6m7I.gif" height="150" alt="Gif animado" />
+</div>
 
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
-
-
-
+<div align="left">
+  <a href="https://www.instagram.com/_gabriellylowrdes_/profilecard/?igsh=aDllenUzaXpvcXdh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+  </a>
+  <a href="mailto:gabymobily@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  </a>
+</div>
