@@ -1,8 +1,5 @@
-<!-- GIF MARIO -->
 <h1 align="center">
-  <a>
-    <img src="https://user-images.githubusercontent.com/78452566/140799812-a9c3a701-3b74-47fb-be11-c2363d68cd31.gif">
-  </a>
+  <img src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-258.gif" alt="GIF Mario">
 </h1>
 
 ## 💜 Informaçãoes Pessoais
